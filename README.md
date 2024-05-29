@@ -6,14 +6,21 @@
 
 Welcome to the KNUST Wikitech Club! We are excited to launch this new initiative and bring together students and enthusiasts interested in technology, development, and design.
 
+Our handbook [https://wikitech-student-fan-club-knust.github.io/handbook-24/](https://wikitech-student-fan-club-knust.github.io/handbook-24/)
+
 ### Core Team Introductions
 
-Meet the core team members who have worked tirelessly to make this event possible:
+Meet the core team members, advisory and speakers who have worked tirelessly to make this event possible:
 
-* **Prince Larbi**, President of the KNUST Wikitech Club
-* **Joris Darlington Quarshie**, Developer and Speaker
-* **Robert Obiri**, Translator and Speaker
-* [Insert other core team members' names and roles]
+* [Joris Darlington Quarshie](https://www.mediawiki.org/wiki/User:Joris_Darlington_Quarshie), Community Lead, African Wikimedia Technical Community
+* [Jael Serwaa Booateng](https://meta.wikimedia.org/wiki/User:Jael28), Executive Director, Open Foundation West Africa
+* [Sanie Yahya](https://www.mediawiki.org/wiki/User:Pirate_064), AWMT Coordinator, Open Foundation West Africa
+* [Robert Obiri](https://www.mediawiki.org/wiki/User:Robertjamal12), Co-founder of the Fante Wikimedians Community, and an Admin on the Twi and Fante Wikipedia
+* [Prince Nhyira Larbi](https://meta.wikimedia.org/wiki/User:Pnlarbi), President of the KNUST Wikitech Club
+* [Ike Asamoah-Ansah](https://meta.wikimedia.org/wiki/User:Ikeasamoahansah), Vice President of the KNUST Wikitech Club
+* [Trishelle Akosah](https://meta.wikimedia.org/wiki/User:Trishmapak), General Secretary of the KNUST Wikitech Club
+* [Elikem Ata](https://meta.wikimedia.org/wiki/User:A.elikem), Club Manager of the KNUST Wikitech Club
+* [Frederick Kwaku Ntow](https://meta.m.wikimedia.org/wiki/User:Ntowfk), Financier for the KNUST Wikitech Club
 
 ### Live Session
 
@@ -24,7 +31,7 @@ Join us for a live presentation by esteemed speakers, including Joris Darlington
 Choose from two breakout sessions:
 
 * **Development Session**: In-depth discussion on coding challenges and contributions to Wikimedia projects, led by Joris Darlington Quarshie
-* **Writing and Translation Session**: Expert guidance on contributing to Wikipedia, Wikidata, and other related platforms, facilitated by the KUmasi Wikihub
+* **Writing and Translation Session**: Expert guidance on contributing to Wikipedia, Wikidata, and other related platforms, facilitated by the Kumasi WikiHub
 
 ### Panel Discussion
 
@@ -59,4 +66,7 @@ We hope you enjoy this event and look forward to seeing you there!
 * 2:00 pm - 2:30 pm: Project Demo Session
 * 2:30 pm - 3:30 pm: Refreshments and Socialization
 * 3:30 pm - 4:00 pm: Photo Shoot and Closing
+
+
+### WIKITECH KNUST, EXPLORING TECHNOLOGIES TOGETHER
 
