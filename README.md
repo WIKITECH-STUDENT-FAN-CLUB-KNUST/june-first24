@@ -57,15 +57,15 @@ We hope you enjoy this event and look forward to seeing you there!
 
 **Schedule**
 
-* 11:00 am - 11:15 am: Welcome and Introduction
-* 11:15 am - 11:30 am: Core Team Introductions
-* 11:30 am - 12:00 pm: Live Session
-* 12:00 pm - 1:00 pm: Breakout Sessions
-* 1:00 pm - 1:30 pm: Panel Discussion
+* 11:00 am - 11:10 am: Welcome and Introduction
+* 11:10 am - 11:15 am: Core Team Introductions
+* 11:20 am - 12:50 pm: Live Session
+* 12:50 pm - 1:10 pm: Breakout Sessions
+* 1:10 pm - 1:30 pm: Panel Discussion
 * 1:30 pm - 2:00 pm: Open Mic Session
 * 2:00 pm - 2:30 pm: Project Demo Session
-* 2:30 pm - 3:30 pm: Refreshments and Socialization
-* 3:30 pm - 4:00 pm: Photo Shoot and Closing
+* 2:30 pm - 3:30 pm: Refreshments Socialization, and Photo Shoot
+* Closing prayer
 
 
 ### WIKITECH KNUST, EXPLORING TECHNOLOGIES TOGETHER
